@@ -17,6 +17,7 @@ function Homescreen({ navigation }) {
         <Image source={require('./assets/amelia.jpg')} />
       </TouchableOpacity>
       <Text>This is a test message for GitHub</Text>
+      <Text>Jiahui do you read</Text>
     </View>
   )
 }
